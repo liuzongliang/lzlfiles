@@ -1,6 +1,7 @@
-测试一下！
+﻿测试一下！
 在测试一下！
 hello world!
 第三次测试，xixi！
 搜嘎，哇咔咔！
 嘿嘿，hello Kitty！
+中文要乱码？Just a try!
